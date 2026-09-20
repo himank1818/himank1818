@@ -87,7 +87,7 @@
     <td width="50%" align="center" style="padding: 14px;">
       <h4>💼 Independent Experience</h4>
       <p>
-        <b>Full-Stack Developer (2024–Present)</b><br />
+        <b>Full-Stack Developer (2025–Present)</b><br />
         <sub>15+ Responsive Web Platforms Built & Deployed</sub>
       </p>
     </td>
