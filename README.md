@@ -1,6 +1,4 @@
-Yeh raha aapka updated code jisme sabhi jagah portfolio ki nayi link (`https://himank1818.github.io/portfolio/`) update kar di gayi hai:
 
-```markdown
 <p align="center">
   <a href="https://github.com/himank1818">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Himank%20Singh%20%F0%9F%91%8B;AI%20%26%20Machine%20Learning%20Undergraduate%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Flutter%20Developer%20%F0%9F%92%BB;Creator%20of%20Omnitron%20AI%20Voice%20Assistant%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20software%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
