@@ -78,7 +78,7 @@
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🌐 Live Portfolio</h4>
       <p>
-        <a href="https://himank1818.github.io/portfolio/" target="_blank"><b>my-portfolio-3idw.vercel.app</b></a><br />
+        <a href="https://himank1818.github.io/portfolio/" target="_blank"><b>https://himank1818.github.io/portfolio/</b></a><br />
         <sub>Full-Stack Portfolio (98+ Lighthouse & SEO 100)</sub>
       </p>
     </td>
