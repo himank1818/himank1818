@@ -1,3 +1,6 @@
+Yeh raha aapka updated code jisme sabhi jagah portfolio ki nayi link (`https://himank1818.github.io/portfolio/`) update kar di gayi hai:
+
+```markdown
 <p align="center">
   <a href="https://github.com/himank1818">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Himank%20Singh%20%F0%9F%91%8B;AI%20%26%20Machine%20Learning%20Undergraduate%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Flutter%20Developer%20%F0%9F%92%BB;Creator%20of%20Omnitron%20AI%20Voice%20Assistant%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20software%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
@@ -9,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://my-portfolio-3idw.vercel.app/" target="_blank">
+  <a href="https://himank1818.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
   &nbsp;
@@ -36,7 +39,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨💻 About Me</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+intelligent+AI+agents+%26+scalable+systems." width="100%" style="max-width: 600px;" alt="Typing Quote" />
@@ -112,7 +115,7 @@
       <p><i>An advanced offline-first intelligent voice assistant equipped with custom wake-word detection, Groq Whisper Speech-to-Text, Gemini AI intelligence, and Piper Neural TTS. Optimized for low-latency voice responses, device control, note-taking, and background Android execution.</i></p>
       <br />
       <p>
-        <a href="https://my-portfolio-3idw.vercel.app/" target="_blank">
+        <a href="https://himank1818.github.io/portfolio/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
         </a>
         &nbsp;&nbsp;
@@ -228,7 +231,7 @@
       <sub><b>Professional Network</b></sub>
     </td>
     <td align="center" width="220" style="padding: 16px;">
-      <a href="https://my-portfolio-3idw.vercel.app/" target="_blank">
+      <a href="https://himank1818.github.io/portfolio/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
         <br /><br />
         <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
@@ -247,3 +250,4 @@
     </td>
   </tr>
 </table>
+```
