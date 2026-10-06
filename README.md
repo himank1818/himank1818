@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himank1818&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=himank1818&label=PROFILE%20VIEWS&color=dc2626&labelColor=0a0a0a&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
